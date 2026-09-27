@@ -9,7 +9,7 @@ quantidade_excelente = 0
 quantidade_ruim = 0
 
 # Pesquisa com 50 entrevistados
-for entrevistado in range(1, 11):
+for entrevistado in range(1, 51):
 
     print(f"\n--- Entrevistado {entrevistado} de 50 ---")
 
